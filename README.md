@@ -1,5 +1,5 @@
 # Portainer compose setup
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://github.com/cindoum/portainer-compose/docker-compose.yml)
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/cindoum/portainer-compose/docker-compose.yml)
 A simple setup to deploy Portainer with custom templates.
 
 This setup also comes with [watchtower](https://hub.docker.com/r/v2tec/watchtower/) to automatically upgrade Portainer version :)
